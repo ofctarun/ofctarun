@@ -1,14 +1,24 @@
-<p align="left"># 👋 Hello! I'm Tarun Narayanashetti<br><br>## 🧑‍💻 About Me<br>- 🌟 **B.Tech 2nd Year | Computer Science Engineering**  <br>- 💡 **Skills:**  <br>  - Programming: C, C++, Java, Python  <br>  - Web Development: HTML, CSS  <br>  - Database: SQL  <br>  - Core Concepts: Data Structures, Algorithms, OOPS</p>
-
-###
-
+<h1 align="center">👋 Hello! I'm Tarun Narayanashetti</h1>
+    <h2>🧑‍💻 About Me</h2>
+    <ul>
+        <li>🌟 <strong>B.Tech 2nd Year | Computer Science Engineering</strong></li>
+        <li>💡 <strong>Skills:</strong>
+            <ul>
+                <li>Programming: C, C++, Java, Python</li>
+                <li>Web Development: HTML, CSS</li>
+                <li>Database: SQL</li>
+                <li>Core Concepts: Data Structures, Algorithms, OOPS</li>
+            </ul>
+        </li>
+    </ul>
+ <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ofctarun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofctarun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+<h2>🛠 Tech Stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -26,14 +36,18 @@
 </div>
 
 ###
+<h2>🌐 Connect with Me</h2>
+<p align="left">
+    <a href="https://www.linkedin.com/in/tarun-narayanashetti-138444330/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn" style="margin-right: 10px;">
+    </a>
+    <a href="https://instagram.com/ofc_tarunn" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="Instagram" style="margin-right: 10px;">
+    </a>
+</p>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
 
+<h2>🐍 Contribution Activity</h2>
 <picture>
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
