@@ -34,8 +34,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/ofctarun/ofctarun/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
