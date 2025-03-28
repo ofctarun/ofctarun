@@ -6,7 +6,7 @@
             <ul>
                 <li>Programming: C, C++, Java, Python</li>
                 <li>Web Development: HTML, CSS</li>
-                <li>Database: SQL</li>
+                <li>Database: SQL, PL SQL</li>
                 <li>Core Concepts: Data Structures, Algorithms, OOPS</li>
             </ul>
         </li>
