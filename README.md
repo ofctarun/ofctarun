@@ -4,7 +4,7 @@
         <li>🌟 <strong>B.Tech 2nd Year | Computer Science Engineering</strong></li>
         <li>💡 <strong>Skills:</strong>
             <ul>
-                <li>Programming: C, C++, Java, Python</li>
+                <li>Programming: C, C++, Java, Python </li>
                 <li>Web Development: HTML, CSS</li>
                 <li>Database: SQL, PL SQL</li>
                 <li>Core Concepts: Data Structures, Algorithms, OOPS</li>
