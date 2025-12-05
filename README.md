@@ -47,8 +47,8 @@
 </p>
 
 
-<h2>🐍 Contribution Activity</h2>
+<!-- <h2>🐍 Contribution Activity</h2>
 <div align="center">
 </div><picture>
     <img alt="github-snake" src="https://raw.githubusercontent.com/ofctarun/ofctarun/output/github-snake.svg" />
-</picture>
+</picture> -->
