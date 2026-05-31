@@ -67,7 +67,7 @@ A developer networking platform helping developers connect and collaborate.
 
 **Tech:** React • Node.js • Express • MongoDB
 
-🌐 Portfolio: https://tarunn.xyz
+🌐 Portfolio: https://tarun.bond
 
 💻 GitHub: https://github.com/ofctarun/DevTinder
 
@@ -124,8 +124,4 @@ A developer networking platform helping developers connect and collaborate.
 
 
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
-"""
 
-out = "/mnt/data/Tarun_GitHub_README.md"
-pypandoc.convert_text(content, "md", format="md", outputfile=out, extra_args=["--standalone"])
-print(out)
