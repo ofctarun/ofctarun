@@ -1,6 +1,4 @@
-import pypandoc
-
-content = r"""# Hi, I'm Tarun Narayanashetti 👋
+ Hi, I'm Tarun Narayanashetti 👋
 
 <pre>
 ████████╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
