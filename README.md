@@ -1,54 +1,133 @@
-<h1 align="center">👋 Hello! I'm Tarun Narayanashetti</h1>
-    <h2>🧑‍💻 About Me</h2>
-    <ul>
-        <li>🌟 <strong>B.Tech 2nd Year | Computer Science Engineering</strong></li>
-        <li>💡 <strong>Skills:</strong>
-            <ul>
-                <li>Programming: C, C++, Java, Python </li>
-                <li>Web Development: HTML, CSS</li>
-                <li>Database: SQL, PL SQL</li>
-                <li>Core Concepts: Data Structures, Algorithms, OOPS</li>
-            </ul>
-        </li>
-    </ul>
- <h2 align="center">📊 GitHub Stats</h2>
+import pypandoc
+
+content = r"""# Hi, I'm Tarun Narayanashetti 👋
+
+<pre>
+████████╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
+╚══██╔══╝██╔══██╗██╔══██╗██║   ██║████╗  ██║
+   ██║   ███████║██████╔╝██║   ██║██╔██╗ ██║
+   ██║   ██╔══██║██╔══██╗██║   ██║██║╚██╗██║
+   ██║   ██║  ██║██║  ██║╚██████╔╝██║ ╚████║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+</pre>
+
+## About Me:
+
+- Full Stack Developer passionate about turning ideas into real products.
+- I love building, breaking, learning, and rebuilding things better.
+- Currently improving Data Structures, Algorithms, System Design, and Backend Engineering.
+- Building production-level applications with modern web technologies.
+- Interested in scalable systems, clean architecture, and solving meaningful problems.
+- Constantly learning through projects, coding platforms, and developer communities.
+- Open to Full Stack Developer opportunities.
+
+## Skill Set:
+
+<table><tr><td valign="top" width="33%">
+
+### Frontend
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofctarun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofctarun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4" />
+
 </div>
 
-###
-<h2>🛠 Tech Stack</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</td><td valign="top" width="33%">
+
+### Backend & Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&perline=4" />
+
 </div>
 
-###
-<h2>🌐 Connect with Me</h2>
-<p align="left">
-    <a href="https://www.linkedin.com/in/tarun-narayanashetti-138444330/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn" style="margin-right: 10px;">
-    </a>
-    <a href="https://instagram.com/ofc_tarunn" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="Instagram" style="margin-right: 10px;">
-    </a>
+</td><td valign="top" width="33%">
+
+### Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,vercel&perline=4" />
+
+</div>
+
+</td></tr></table>
+
+
+## 🚀 Featured Project
+
+### DevTinder
+
+A developer networking platform helping developers connect and collaborate.
+
+- Authentication and authorization
+- Scalable REST APIs
+- Database design
+- Full stack deployment
+
+**Tech:** React • Node.js • Express • MongoDB
+
+🌐 Portfolio: https://tarunn.xyz
+
+💻 GitHub: https://github.com/ofctarun/DevTinder
+
+
+## Connect with me:
+
+<div align="center">
+
+<a href="https://github.com/ofctarun">
+<img src="https://img.shields.io/badge/GitHub-ofctarun-black?style=flat&logo=github"/>
+</a>
+
+<a href="https://tarunn.xyz">
+<img src="https://img.shields.io/badge/Portfolio-tarunn.xyz-blue?style=flat"/>
+</a>
+
+</div>
+
+
+## Github Stats:
+
+<p align="center">
+
+<a href="https://github.com/ofctarun">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofctarun&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofctarun&layout=compact&theme=onedark&hide_border=true"/>
+
+</a>
+
 </p>
 
 
-<!-- <h2>🐍 Contribution Activity</h2>
+<p align="center">
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ofctarun&theme=onedark&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=ofctarun&theme=github-dark"/>
+
+</p>
+
+
 <div align="center">
-</div><picture>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ofctarun/ofctarun/output/github-snake.svg" />
-</picture> -->
+
+<img src="https://komarev.com/ghpvc/?username=ofctarun&style=for-the-badge&color=orange"/>
+
+</div>
+
+
+<h2 align="center">💻 Check Out My Repos ⬇️</h2>
+"""
+
+out = "/mnt/data/Tarun_GitHub_README.md"
+pypandoc.convert_text(content, "md", format="md", outputfile=out, extra_args=["--standalone"])
+print(out)
