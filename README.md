@@ -81,7 +81,7 @@ A developer networking platform helping developers connect and collaborate.
 </a>
 
 <a href="https://tarun.bond">
-<img src="https://img.shields.io/badge/Portfolio-tarunn.xyz-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Portfolio-tarun.bond-blue?style=flat"/>
 </a>
 
 </div>
