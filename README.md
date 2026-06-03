@@ -80,7 +80,7 @@ A developer networking platform helping developers connect and collaborate.
 <img src="https://img.shields.io/badge/GitHub-ofctarun-black?style=flat&logo=github"/>
 </a>
 
-<a href="https://tarunn.xyz">
+<a href="https://tarun.bond">
 <img src="https://img.shields.io/badge/Portfolio-tarunn.xyz-blue?style=flat"/>
 </a>
 
